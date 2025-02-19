@@ -1,0 +1,8 @@
+# 📌 Approach & Optimization  
+
+✅ **Brute Force**: `O(N^2)` – Check every pair (inefficient).  
+✅ **Optimized Approach**: `O(N)` – Track min price & max profit in one pass.  
+
+### Key Learnings  
+- **Kadane’s Algorithm** idea helps here.  
+- **Single pass approach** is efficient for array-based problems.
