@@ -1,7 +1,7 @@
 # 🚀 100 Days of LeetCode Challenge  
 
 Tracking my **100-day coding journey** by solving one problem per day and sharing solutions.  
-<b>Click here for 👉 [NOTES](notes. md)</b>
+Click here for 👉 [NOTES](notes.md)
 <br>
 
 ## 📅 Progress  
