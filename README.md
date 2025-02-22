@@ -9,4 +9,4 @@ Click on any problem to see the solution!
 ✔ **Day 1**: [Best time to buy and sell stock](Best_time_to_buy_and_sell_stock_01_solution.cpp) <br>
 ✔ **Day 2**: [Container With Most Water](container_with_most_water_solution.cpp)<br>
 ✔ **Day 3** [Maximum Subarray](Maximum_subarray_solution.cpp)
-
+✔ **Day 4** [Majority element](Majority_element_solution.cpp)
