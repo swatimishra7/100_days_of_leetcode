@@ -11,3 +11,4 @@ Click on any problem to see the solution!
 ✔ **Day 3** [Maximum Subarray](Maximum_subarray_solution.cpp)<br>
 ✔ **Day 4** [Majority element](Majority_element_solution.cpp)<br>
 ✔ **Day 5** [Binary Exponentiation](Binary_exponentiation_solution.cpp)<br>
+✔ **Day 6** [Peak Index In A Mountain Array](Peak_index_in_a_mountain_array.cpp)<br>
