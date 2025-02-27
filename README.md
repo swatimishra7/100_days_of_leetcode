@@ -12,4 +12,5 @@ Click on any problem to see the solution!
 ✔ **Day 4** [Majority element](Majority_element_solution.cpp)<br>
 ✔ **Day 5** [Binary Exponentiation](Binary_exponentiation_solution.cpp)<br>
 ✔ **Day 6** [Peak Index In A Mountain Array](Peak_index_in_a_mountain_array.cpp)<br>
-✔ **Day 7** [Search In A Rotated Sorted Array](Search_in_rotated_sorted_array.cpp)
+✔ **Day 7** [Search In A Rotated Sorted Array](Search_in_rotated_sorted_array.cpp)<br>
+✔ **Day 8** [Sort Colors -Dutch National Algorithm](Sort_colors.cpp)<br>
