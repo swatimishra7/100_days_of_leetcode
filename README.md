@@ -17,6 +17,6 @@ Click on any problem to see the solution!
 ✔ **Day 9** [Merge Two Sorted Arrays](Merge_sorted_array.cpp)<br>
 ✔ **Day 10** [Spiral Matrix](spiral_mat.cpp )<br>
 ✔ **Day 11** [Search In 2D Sorted Matrix]( Search_in_rotated_sorted_array.cpp )<br>
-✔ **Day 12** [Product Of An Array Except Itself]<br>
-✔ **Day 13**
+✔ **Day 12** [Product Of An Array Except Itself](   Prod_of_an_array.cpp )<br>
+✔ **Day 13**<br>
 ✔ **Day 14**
