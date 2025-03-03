@@ -15,8 +15,8 @@ Click on any problem to see the solution!
 ✔ **Day 7** [Search In A Rotated Sorted Array](Search_in_rotated_sorted_array.cpp)<br>
 ✔ **Day 8** [Sort Colors -Dutch National Algorithm](Sort_colors.cpp)<br>
 ✔ **Day 9** [Merge Two Sorted Arrays](Merge_sorted_array.cpp)<br>
-✔ **Day 10** [Spiral Matrix]
-✔ **Day 11** [Search In 2D Sorted Matrix]
-✔ **Day 12** [Product Of An Array Except Itself]
+✔ **Day 10** [Spiral Matrix](spiral_mat.cpp )<br>
+✔ **Day 11** [Search In 2D Sorted Matrix]<br>
+✔ **Day 12** [Product Of An Array Except Itself]<br>
 ✔ **Day 13**
 ✔ **Day 14**
