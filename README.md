@@ -19,4 +19,11 @@ Click on any problem to see the solution!
 ✔ **Day 11** [Search In 2D Sorted Matrix]( Search_in_rotated_sorted_array.cpp )<br>
 ✔ **Day 12** [Product Of An Array Except Itself](   Prod_of_an_array.cpp )<br>
 ✔ **Day 13** [Next Permutation](Next_permutation.cpp)<br>
-✔ **Day 14**
+
+STRINGS
+
+✔ **Day 14** [Valid Palindrome](  String.cpp )<br>
+✔ **Day 15** [Permutation In String](   String.cpp)<br>
+✔ **Day 16** [Remove Occurrences In String](String.cpp)<br>
+✔ **Day 17** [Reverse Words In String](String.cpp)<br>
+✔ **Day 18** [String Compression](String.cpp)<br>
