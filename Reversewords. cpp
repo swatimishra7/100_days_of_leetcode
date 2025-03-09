@@ -1,0 +1,17 @@
+string occur(string &s)
+{
+reverse(s.begin(),s.end());
+string ans="";
+for(int i=0;i<s.length();i++)
+{
+string words="";
+while(s[i]!=' ' && i<s.length())
+{
+words+=s[i];
+i++;
+}
+reverse(words.begin(),words.end());
+ans+=words+" ";
+}
+return ans;
+}
